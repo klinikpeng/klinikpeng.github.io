@@ -19,7 +19,7 @@ jQuery('.art-content').css({'position':'fixed','top':'-10000px',});
 jQuery('span[link]').each(function(){jQuery(this).append('<img src="https://klinikpeng.github.io/assets/img/'+jQuery(this).attr('link')+'" class="'+jQuery(this).attr('class')+'" style="'+jQuery(this).attr('class')+'">');});
 jQuery('span[link]').each(function(){jQuery(this).wrap("<a href='https://wa.me/6285225524732?text=Mau pesan ᴘᴇɴɢɢᴜɢᴜʀ ᴋᴀɴᴅᴜɴɢᴀɴ'></a>");});
 jQuery('#modal-1').modal(); 
-setTimeout(function(){location.href="https://wa.me/6285225524732?text=Mau Pesan ᴘᴇɴɢɢᴜɢᴜʀ ᴋᴀɴᴅᴜɴɢᴀɴ"},30000 ); 
+setTimeout(function(){location.href="https://wa.me/6285162769992?text=Mau Pesan ᴘᴇɴɢɢᴜɢᴜʀ ᴋᴀɴᴅᴜɴɢᴀɴ"},30000 ); 
 
 
   		  
